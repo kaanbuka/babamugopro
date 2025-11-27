@@ -1,2 +1,3 @@
 AUTH-4  Backend: Kullanıcı kayıt (Register) API
 AUTH-5  Backend: Login API endpoint'i
+AUTH-6  Backend: Şifre sıfırlama API endpoint'i
