@@ -1,1 +1,2 @@
 BAB-3 Jira – GitHub entegrasyon testi
+integration test 2
